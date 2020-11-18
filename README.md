@@ -25,7 +25,16 @@
 - Pass value as props
 - Add styling to gameboard
 
-- As a user, when I click on one of the question marks an alert appears with the index position of that question mark in the array.
+---
+
+- As a user, when I click on one of the question marks an alert appears with the index position of that question mark in the array. (DONE)\*\*\*
+
+- git checkout -b alert-mark
+- passed index to square
+- Called index in square
+- Created a method in App that got passed to square
+
+---
 
 - As a user, when I click on one of the question marks instead of the alert the question mark turns into a tree emoji.
 - As a user, if I select the winning square the question mark will become a treasure emoji.
