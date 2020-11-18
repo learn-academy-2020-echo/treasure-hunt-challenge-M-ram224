@@ -7,7 +7,7 @@
 
 ### User Stories
 
-- As a user, I can see a page with a 3 by 3 grid board game with a question mark in each square. (DONE!!)
+- As a user, I can see a page with a 3 by 3 grid board game with a question mark in each square. (DONE!!)\*\*\*
 
 - Added a div to square with an `id="square"`
 - added styling to the id of square
@@ -37,6 +37,14 @@
 ---
 
 - As a user, when I click on one of the question marks instead of the alert the question mark turns into a tree emoji.
+
+-git checkout -b tree-functionality
+
+- emogi keyboard: control, command, spacebar
+- set the index to be a tree emoji and set state with the updated value
+
+---
+
 - As a user, if I select the winning square the question mark will become a treasure emoji.
 - As a user, if I select the losing square the question mark will become a bomb emoji.
 - As a user, I can see a counter that shows how many guesses I have left. The counter starts at 5 and decrements one every time I click on a square that is not the treasure nor the bomb.
